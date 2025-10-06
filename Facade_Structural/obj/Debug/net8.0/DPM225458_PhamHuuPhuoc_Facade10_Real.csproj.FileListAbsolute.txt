@@ -1,0 +1,14 @@
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.exe
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.deps.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.runtimeconfig.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.AssemblyInfoInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.AssemblyInfo.cs
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.csproj.CoreCompileInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\refint\DPM225458_PhamHuuPhuoc_Facade10_Real.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_Facade10_Real.genruntimeconfig.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_Facade\obj\Debug\net8.0\ref\DPM225458_PhamHuuPhuoc_Facade10_Real.dll

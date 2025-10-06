@@ -1,0 +1,14 @@
+Z:\TH3\Facade10_pattern\bin\Debug\net8.0\Facade10_pattern.exe
+Z:\TH3\Facade10_pattern\bin\Debug\net8.0\Facade10_pattern.deps.json
+Z:\TH3\Facade10_pattern\bin\Debug\net8.0\Facade10_pattern.runtimeconfig.json
+Z:\TH3\Facade10_pattern\bin\Debug\net8.0\Facade10_pattern.dll
+Z:\TH3\Facade10_pattern\bin\Debug\net8.0\Facade10_pattern.pdb
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.AssemblyInfoInputs.cache
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.AssemblyInfo.cs
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.csproj.CoreCompileInputs.cache
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.dll
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\refint\Facade10_pattern.dll
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.pdb
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\Facade10_pattern.genruntimeconfig.cache
+Z:\TH3\Facade10_pattern\obj\Debug\net8.0\ref\Facade10_pattern.dll
