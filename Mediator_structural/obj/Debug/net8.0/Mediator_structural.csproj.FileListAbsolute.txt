@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\bin\Debug\net8.0\Mediator_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\bin\Debug\net8.0\Mediator_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\bin\Debug\net8.0\Mediator_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\bin\Debug\net8.0\Mediator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\bin\Debug\net8.0\Mediator_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\refint\Mediator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\Mediator_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_structural\obj\Debug\net8.0\ref\Mediator_structural.dll

@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\bin\Debug\net8.0\Memento_realworld.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\bin\Debug\net8.0\Memento_realworld.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\bin\Debug\net8.0\Memento_realworld.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\bin\Debug\net8.0\Memento_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\bin\Debug\net8.0\Memento_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\refint\Memento_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\Memento_realworld.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_realworld\obj\Debug\net8.0\ref\Memento_realworld.dll

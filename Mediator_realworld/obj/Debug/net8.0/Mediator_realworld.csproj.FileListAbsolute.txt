@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\bin\Debug\net8.0\Mediator_realworld.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\bin\Debug\net8.0\Mediator_realworld.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\bin\Debug\net8.0\Mediator_realworld.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\bin\Debug\net8.0\Mediator_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\bin\Debug\net8.0\Mediator_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\refint\Mediator_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\Mediator_realworld.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Mediator_realworld\obj\Debug\net8.0\ref\Mediator_realworld.dll
