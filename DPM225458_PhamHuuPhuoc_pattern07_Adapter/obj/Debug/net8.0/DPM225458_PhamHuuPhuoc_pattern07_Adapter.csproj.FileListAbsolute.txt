@@ -1,0 +1,14 @@
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.exe
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.deps.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.runtimeconfig.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.AssemblyInfoInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.AssemblyInfo.cs
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.csproj.CoreCompileInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\refint\DPM225458_PhamHuuPhuoc_pattern07_Adapter.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern07_Adapter.genruntimeconfig.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern07_Adapter\obj\Debug\net8.0\ref\DPM225458_PhamHuuPhuoc_pattern07_Adapter.dll
