@@ -1,0 +1,4 @@
+Z:\TH3\Decorator-Real-world\obj\Debug\net8.0\Decorator-Real-world.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\Decorator-Real-world\obj\Debug\net8.0\Decorator-Real-world.AssemblyInfoInputs.cache
+Z:\TH3\Decorator-Real-world\obj\Debug\net8.0\Decorator-Real-world.AssemblyInfo.cs
+Z:\TH3\Decorator-Real-world\obj\Debug\net8.0\Decorator-Real-world.csproj.CoreCompileInputs.cache

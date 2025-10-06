@@ -1,0 +1,14 @@
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.AssemblyInfoInputs.cache
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.AssemblyInfo.cs
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.csproj.CoreCompileInputs.cache
+Z:\TH3\Decorator-Structural\bin\Debug\net8.0\Decorator-Structural.exe
+Z:\TH3\Decorator-Structural\bin\Debug\net8.0\Decorator-Structural.deps.json
+Z:\TH3\Decorator-Structural\bin\Debug\net8.0\Decorator-Structural.runtimeconfig.json
+Z:\TH3\Decorator-Structural\bin\Debug\net8.0\Decorator-Structural.dll
+Z:\TH3\Decorator-Structural\bin\Debug\net8.0\Decorator-Structural.pdb
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.dll
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\refint\Decorator-Structural.dll
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.pdb
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\Decorator-Structural.genruntimeconfig.cache
+Z:\TH3\Decorator-Structural\obj\Debug\net8.0\ref\Decorator-Structural.dll
