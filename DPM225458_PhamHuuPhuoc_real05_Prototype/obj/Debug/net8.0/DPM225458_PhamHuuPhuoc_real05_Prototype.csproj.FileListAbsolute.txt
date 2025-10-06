@@ -1,0 +1,14 @@
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.exe
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.deps.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.runtimeconfig.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.AssemblyInfoInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.AssemblyInfo.cs
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.csproj.CoreCompileInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\refint\DPM225458_PhamHuuPhuoc_real05_Prototype.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_real05_Prototype.genruntimeconfig.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_real05_Prototype\obj\Debug\net8.0\ref\DPM225458_PhamHuuPhuoc_real05_Prototype.dll
