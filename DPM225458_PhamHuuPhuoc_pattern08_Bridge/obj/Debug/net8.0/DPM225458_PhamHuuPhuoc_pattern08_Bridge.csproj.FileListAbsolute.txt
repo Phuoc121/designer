@@ -1,0 +1,14 @@
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.AssemblyInfoInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.AssemblyInfo.cs
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.csproj.CoreCompileInputs.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.exe
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.deps.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.runtimeconfig.json
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\bin\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\refint\DPM225458_PhamHuuPhuoc_pattern08_Bridge.dll
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.pdb
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\DPM225458_PhamHuuPhuoc_pattern08_Bridge.genruntimeconfig.cache
+Z:\TH3\DPM225458_PhamHuuPhuoc_pattern08_Bridge\obj\Debug\net8.0\ref\DPM225458_PhamHuuPhuoc_pattern08_Bridge.dll
