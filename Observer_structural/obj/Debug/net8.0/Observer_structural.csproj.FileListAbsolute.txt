@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\bin\Debug\net8.0\Observer_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\bin\Debug\net8.0\Observer_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\bin\Debug\net8.0\Observer_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\bin\Debug\net8.0\Observer_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\bin\Debug\net8.0\Observer_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\refint\Observer_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\Observer_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Observer_structural\obj\Debug\net8.0\ref\Observer_structural.dll

@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\bin\Debug\net8.0\Memento_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\bin\Debug\net8.0\Memento_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\bin\Debug\net8.0\Memento_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\bin\Debug\net8.0\Memento_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\bin\Debug\net8.0\Memento_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\refint\Memento_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\Memento_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Memento_structural\obj\Debug\net8.0\ref\Memento_structural.dll
