@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\bin\Debug\net8.0\Interpreter_realworld.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\bin\Debug\net8.0\Interpreter_realworld.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\bin\Debug\net8.0\Interpreter_realworld.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\bin\Debug\net8.0\Interpreter_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\bin\Debug\net8.0\Interpreter_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\refint\Interpreter_realworld.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\Interpreter_realworld.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Interpreter_realworld\obj\Debug\net8.0\ref\Interpreter_realworld.dll

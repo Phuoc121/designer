@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mediator_realworld/1.0.0": {
+        "runtime": {
+          "Mediator_realworld.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mediator_realworld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

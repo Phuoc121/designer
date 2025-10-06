@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\bin\Debug\net8.0\Iterator_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\bin\Debug\net8.0\Iterator_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\bin\Debug\net8.0\Iterator_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\bin\Debug\net8.0\Iterator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\bin\Debug\net8.0\Iterator_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\refint\Iterator_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\Iterator_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Iterator_structural\obj\Debug\net8.0\ref\Iterator_structural.dll
