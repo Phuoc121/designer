@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Flyweight_realworld/1.0.0": {
+        "runtime": {
+          "Flyweight_realworld.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyweight_realworld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
