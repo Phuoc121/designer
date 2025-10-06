@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\bin\Debug\net8.0\State_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\bin\Debug\net8.0\State_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\bin\Debug\net8.0\State_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\bin\Debug\net8.0\State_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\bin\Debug\net8.0\State_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\refint\State_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\State_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\State_structural\obj\Debug\net8.0\ref\State_structural.dll
