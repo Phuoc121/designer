@@ -1,0 +1,14 @@
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\bin\Debug\net8.0\Proxy_structural.exe
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\bin\Debug\net8.0\Proxy_structural.deps.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\bin\Debug\net8.0\Proxy_structural.runtimeconfig.json
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\bin\Debug\net8.0\Proxy_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\bin\Debug\net8.0\Proxy_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.AssemblyInfoInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.AssemblyInfo.cs
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.csproj.CoreCompileInputs.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\refint\Proxy_structural.dll
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.pdb
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\Proxy_structural.genruntimeconfig.cache
+E:\DPM225448_NguyenThiKimNgoc_PTBTPM\Proxy_structural\obj\Debug\net8.0\ref\Proxy_structural.dll
